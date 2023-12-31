@@ -1,6 +1,6 @@
 # Unique Weather App
 ### Unique Features of this app
-* Tap anywhere on the map, and it will show weather data of there.
+* $\color{red}{\textsf{Tap anywhere on the map, and it will show weather data of there.}}$
 * It will Show the tapped location names like [District, Division, Country]
 * Automatically change the App theme by changing day and night.
   
